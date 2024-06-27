@@ -1,4 +1,4 @@
-# Gender Classification
+# Gender Prediction
 ## Description
 Gender Classification is a project designed to predict the gender of individuals based on available data, with three gender categories: Male (M), Female (F), and Unknown. The project aims to facilitate customer classification by predicting the gender of individuals with an "Unknown" label and assigning them a gender label (either M or F) using machine learning techniques.
 ## Key Features
